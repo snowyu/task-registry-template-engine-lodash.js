@@ -29,8 +29,8 @@
   ],
   "dependencies": {
     "lodash": "^4.6.1",
-    "task-registry-template-engine": "^0.2.0",
-    "util-ex": "^0.3.14"
+    "task-registry-template-engine": "^0.2.1",
+    "util-ex": "^0.3.15"
   },
   "devDependencies": {
     "chai": "~3.5.0",
